@@ -3,7 +3,7 @@
 
 
 
-Skills learned
+Skills learned  
 -Build a foundation in modern data concepts so you can confidently navigate analytics tools and data sources in any organization.
 
 -Transform, clean, and organize raw data to make it reliable and useful for analysis.
